@@ -1,4 +1,4 @@
-## Sales Insights Data Analysis Project
+## Sales Insights Data Analysis and Forecasting Dashboard Project
 
 ### Data Analysis Using SQL
 
